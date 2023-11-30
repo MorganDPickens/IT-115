@@ -10,3 +10,5 @@ This is the final project for IT115 group 5.  The goal of the project is to make
 
 <H2>Code of Conduct</H2>
 
+Assignment 4: CONTRIBUTING.md
+https://mozillascience.github.io/working-open-workshop/contributing/
