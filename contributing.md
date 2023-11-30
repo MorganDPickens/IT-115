@@ -4,7 +4,7 @@ This contributing.md is for the final project of group 5 of IT115.  The goal of 
 
 <H2>Environmental Details</H2>
 
-<H2>Tesing</H2>
+<H2>Testing</H2>
 
 <H2>Bug Reports</H2>
 
