@@ -2,16 +2,17 @@
 
 This contributing.md is for the final project of group 5 of IT115.  The goal of the project is to make a web site code so we can all practice managing this GitHub repository.
 
-How did you change Web Site Demo?
-How did your group collaborate and manage the project? <<< Morgan
-What roles did each team member play? <<< Khang
-Describe your process for testing. <<<<Khang
-Describe your process for bug tracking.
-How did you update and fix code? <<< Morgan
-What web server are you using to host your project? <<< Shiro 
-Describe the process for configuring your web server. <<< Shiro
-How did you deploy code to your server? <<< Shiro
-Provide a URL so others in the class can playtest your project.
+How did you change Web Site Demo? <br/>
+How did your group collaborate and manage the project? <<< Morgan  <br/>
+What roles did each team member play? <<< Khang  <br/>
+Describe your process for testing. <<<<Khang  <br/>
+Describe your process for bug tracking.  <br/>
+How did you update and fix code? <<< Morgan  <br/>
+What web server are you using to host your project? <<< Shiro  <br/>
+Describe the process for configuring your web server. <<< Shiro  <br/>
+How did you deploy code to your server? <<< Shiro  <br/>
+Provide a URL so others in the class can playtest your project. 
+https://it115.shiro.net
 
 <H2>Environmental Details</H2>
 
