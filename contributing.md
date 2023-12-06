@@ -13,6 +13,8 @@ Describe the process for configuring your web server. <<< Shiro  <br/>
 How did you deploy code to your server? <<< Shiro  <br/>
 Provide a URL so others in the class can playtest your project. 
 https://it115.shiro.net
+* please note this instance of an AWS educate account automatically shutdown.  Please let me know when you need to re-start the server.
+https://stackoverflow.com/questions/68515500/aws-ec2-keeps-shutting-down-automatically
 
 <H2>Environmental Details</H2>
 
