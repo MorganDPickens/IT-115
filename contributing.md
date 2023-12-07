@@ -2,7 +2,7 @@
 
 This contributing.md is for the final project of group 5 of IT115.  The goal of the project is to make a web site code so we can all practice managing this GitHub repository.
 
-How did you change Web Site Demo? <br/>
+How did you change Web Site Demo? <<< Jesse <br/>
 How did your group collaborate and manage the project? <<< Morgan  <br/>
 What roles did each team member play? <<< Khang  <br/>
 Describe your process for testing. <<<<Khang  <br/>
