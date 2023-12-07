@@ -6,7 +6,7 @@ How did you change Web Site Demo? <<< Jesse <br/>
 How did your group collaborate and manage the project? <<< Morgan  <br/>
 What roles did each team member play? <<< Khang  <br/>
 Describe your process for testing. <<<<Khang  <br/>
-Describe your process for bug tracking.  <br/>
+Describe your process for bug tracking. <<<Jesse  <br/>
 How did you update and fix code? <<< Morgan  <br/>
 What web server are you using to host your project? <<< Shiro  <br/>
 Describe the process for configuring your web server. <<< Shiro  <br/>
